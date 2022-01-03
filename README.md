@@ -1,3 +1,7 @@
-# Colin-Site
+Site Colin Renkema
 
-Learning Web-Development
+
+here will build  a Portfolio site
+
+Aiming mobile First
+
